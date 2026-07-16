@@ -1,0 +1,19 @@
+musicbox_api.json
+  s_b65b2c5a290643::t_33acac3af7b2be 2,5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "590b5db4eff7d3000ed3c83b79afe6557e1d541d",
+  "prompts": {},
+  "sessions": {
+    "s_b65b2c5a290643": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e97defd2-bc11-4511-97fc-f87e9352bd77",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "sunjiangting <sunjiangting@maetimes.com>"
+    }
+  }
+}
