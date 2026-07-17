@@ -1,0 +1,19 @@
+musicbox_api.json
+  s_169786afb8fd5f::t_64c1345f3c6050 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "dadf50097054585d510333820d4386af3516af16",
+  "prompts": {},
+  "sessions": {
+    "s_169786afb8fd5f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ddc75d99-857b-45ba-ab85-2e28f904e750",
+        "model": "unknown"
+      },
+      "human_author": "sunjiangting <sunjiangting@maetimes.com>"
+    }
+  }
+}
